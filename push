@@ -1,0 +1,15 @@
+mkdir macha4
+cd macha4
+pwd
+mkdir file2
+cd file2
+pwd
+notepad file5.txt
+git init 
+git add file5.txt
+git config --global user.name "vouturivishnu"
+git config --global user.name "vishnusaivouturi@gmail.com"
+link paste
+git commit -m "tea"
+git branch -m main 
+git push -u origin main 
